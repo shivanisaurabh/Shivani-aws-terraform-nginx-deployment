@@ -1,1 +1,0 @@
-https://github.com/shivanisaurabh/Shivani-aws-terraform-nginx-deployment
